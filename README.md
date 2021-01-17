@@ -3,7 +3,7 @@
 # Dependencies Installed:
 
 ```
-jest @testing-library/react babel-jest @testing-library/jest-dom @testing-library/user-event @testing-library/dom -D
+jest @testing-library/react babel-jest @testing-library/jest-dom @testing-library/user-event @testing-library/dom identity-obj-proxy -D
 ```
 
 ## At Root
