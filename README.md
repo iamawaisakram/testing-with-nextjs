@@ -23,7 +23,7 @@ jest @testing-library/react babel-jest @testing-library/jest-dom @testing-librar
 ```
 // jest.config.js
 module.exports = {
-  setupFilesAfterEnv: ['<rootDir>/jest.setup.ts'],
+  setupFilesAfterEnv: ['<rootDir>/jest.setup.js'],
   testPathIgnorePatterns: ['<rootDir>/.next/', '<rootDir>/node_modules/'],
   moduleNameMapper: {
     '\\.(scss|sass|css)$': 'identity-obj-proxy',
